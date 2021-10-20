@@ -1,0 +1,122 @@
+{
+    "home":{
+        "slider":[
+            {
+                "title":"Now Offering Classes Online",
+                "discription":"Register Now To Take Driver Education Right From Your Own Home",
+                "image":"https://image.freepik.com/free-vector/driving-school-isometric-composition-with-conceptual-pictograms-arrows-text-captions-cars-road-intersection-illustration_1284-27265.jpg"
+            },
+            {
+                "title":"OUR COVID-19 RESPONSE",
+                "discription":"OFFICIAL Driving School is open and staying safe",
+                "image":"https://image.freepik.com/free-vector/cartoon-man-hands-car-wheel-driving-vehicle-street-crossroad-background_33099-168.jpg"
+            },
+            {
+                "title":"You want to learn to drive",
+                "discription":"Official Driving School will teach you how to drive safely.",
+                "image":"https://image.freepik.com/free-vector/drive-thru-window-illustration_23-2148665172.jpg"
+            }
+        ],
+        "INFORMATION":[
+            {
+                "title":"Learn Basics Of Driving Safely.",
+                "discription":"Begin practicing driving basics while the car is safely parked in your own driveway. Create the right learning environment by limiting distractions so that you can focus on teaching your teen driving basics."
+            },
+            {
+                "title":"Virtual Classroom Training Facility",
+                "discription":"A virtual classroom is a digital replica of a traditional classroom or training room. The instructors teach, and the participants learn in real-time, face-to-face but via internet-enabled technology devices."
+            },
+            {
+                "title":"Free Informational Videos & Materials",
+                "discription":"We’ve got over 75 videos (and more on the way) covering nine important topics, such as: defensive driving basics, vehicle maintenance, and understanding right of way. With all this info."
+            },
+            {
+                "title":"Fully Insured, Licensed & Bonded",
+                "discription":"The term “licensed, bonded, and insured” gets used a lot in certain industries, those in which hiring subcontractors is a common practice. Customers are often told to only work with businesses."
+            }
+        ]
+    },
+    "aboutUs":{
+        "point":[
+            "History",
+            "Administration",
+            "Our Campus",
+            "Cafeteria",
+            "Our Teachers"
+        ],
+        "discription":"Smart Driving is devoted to excellence in teaching, learning, and research, and to developing leaders in many disciplines who make a difference Accepts applications from prospective Note that the tours are booked well in advance and only a certain difference to the community.",
+        "note":"As Principal I wish you a very warm welcome to Our School! We are at the heart of the London community and in 2010 we have succeeded in providing local families an excellent education delivered.",
+        "image":"https://ivy-school.thimpress.com/demo-3/wp-content/uploads/sites/5/2018/10/sign-01.png"
+    },
+    "contactUs":{
+        "ourLocation":"PO Box 97845 Baker st. 567, Los Angeles, California, US.",
+        "writeSomeWords":["Support24/7@domain.com","Info@domain.com"],
+        "contact":["Mobile: (+04) 600 444 999","Fax: (+04) 600 888 222"]
+    },
+    "ourServices":
+        [{
+            "title":"Basic Plan",
+            "price":129.00,
+            "duration":"Monthly Package",
+            "practiceHours":"2 hour",
+            "details":"Session evaluates a licensed drivers current abilities.  We spend a short time gathering background, driving history and medical information in a clinical setting."
+        },
+        {
+            "title":"Standard Plan",
+            "price":159.00,
+            "duration":"Bi-weekly Package",
+            "practiceHours":"3 hour",
+            "details":"Session evaluates a licensed drivers current abilities.  We spend a short time gathering background, driving history and medical information in a clinical setting."
+        },
+        {
+            "title":"Premium Plan",
+            "price":199.00,
+            "duration":"Yearly Package",
+            "practiceHours":"4 hour",
+            "details":"Session evaluates a licensed drivers current abilities.  We spend a short time gathering background, driving history and medical information in a clinical setting."
+        },
+        {
+            "title":"Basic Plan",
+            "price":129.00,
+            "duration":"Monthly Package",
+            "practiceHours":"2 hour",
+            "details":"Session evaluates a licensed drivers current abilities.  We spend a short time gathering background, driving history and medical information in a clinical setting."
+        },
+        {
+            "title":"Standard Plan",
+            "price":159.00,
+            "duration":"Bi-weekly Package",
+            "practiceHours":"3 hour",
+            "details":"Session evaluates a licensed drivers current abilities.  We spend a short time gathering background, driving history and medical information in a clinical setting."
+        },
+        {
+            "title":"Premium Plan",
+            "price":199.00,
+            "duration":"Yearly Package",
+            "practiceHours":"4 hour",
+            "details":"Session evaluates a licensed drivers current abilities.  We spend a short time gathering background, driving history and medical information in a clinical setting."
+        },
+        {
+            "title":"Basic Plan",
+            "price":129.00,
+            "duration":"Monthly Package",
+            "practiceHours":"2 hour",
+            "details":"Session evaluates a licensed drivers current abilities.  We spend a short time gathering background, driving history and medical information in a clinical setting."
+        },
+        {
+            "title":"Standard Plan",
+            "price":159.00,
+            "duration":"Bi-weekly Package",
+            "practiceHours":"3 hour",
+            "details":"Session evaluates a licensed drivers current abilities.  We spend a short time gathering background, driving history and medical information in a clinical setting."
+        },
+        {
+            "title":"Premium Plan",
+            "price":199.00,
+            "duration":"Yearly Package",
+            "practiceHours":"4 hour",
+            "details":"Session evaluates a licensed drivers current abilities.  We spend a short time gathering background, driving history and medical information in a clinical setting."
+        }
+    ]
+    
+}

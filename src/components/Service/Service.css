@@ -1,0 +1,28 @@
+.serviceCard{
+    width: 75%;
+    border:1px solid crimson;
+    box-shadow: 0 0 5px crimson;
+    border-radius: 5px;
+}
+.serviceCard h3{
+    font-family: Robot;
+    font-weight: 700;
+    text-align:center ;
+}
+.serviceCard h2{
+    font-family: Robot;
+    font-weight: 700;
+    text-align:center ;
+    color: crimson;
+}
+.serviceCard h6{
+    font-family: Robot;
+    font-weight: 400;
+    text-align:center ;
+    color: lightslategray;
+}
+.serviceCard hr{
+    margin: 0;
+    padding: 0;
+    color: crimson;
+}

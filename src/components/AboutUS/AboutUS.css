@@ -1,0 +1,6 @@
+.aboutUsList > li,a{
+text-decoration: none;
+font-size:20PX;
+font-weight: 600;
+color: crimson;
+}

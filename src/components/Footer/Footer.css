@@ -1,0 +1,42 @@
+.footerPart1{
+    background-color: crimson;
+}
+hr{
+    margin: 0;
+    padding: 2px 0;
+    color: darkgray;
+}
+.footerPart2{
+    background-color: crimson;
+    padding: 1rem 0;
+}
+.footerPart2 p{
+    color: gray;
+    font-family: Roboto;
+    margin: 0;
+    padding: 0;
+    font-weight: 700;
+}
+.main-button{
+    background-color: white;
+    color: crimson;
+    font-family: Roboto;
+    font-weight: 700;
+    border-radius: 5px;
+}
+.main-button:hover{
+    background-color: crimson;
+    color: white;
+}
+
+.footerMidCol{
+text-align: center;
+}
+.footerMidCol p{
+    color: gray;
+    font-family: Roboto;
+    margin: 0;
+    padding: 0;
+    font-weight: 500;
+    font-size: 14px;
+}

@@ -1,0 +1,25 @@
+.headerStyle{
+    background-color: crimson;
+}
+.search{
+    position: relative;
+}
+.search> input{
+    background-color: darkgrey;
+    width: 2.5rem;
+    border: 0;
+    outline: none;
+    padding: 5px 10px;
+    border-radius: 50px;
+    transition: width 2s;
+  
+}
+.search> .icon{
+    position: absolute;
+    right: 10px;
+    top: 7px;
+}
+.search:hover input{
+    width: 10rem;
+    transition: width 2s;
+}
